@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/sarel/CLionProjects/HW1/BoardList.cpp
+BoardList.h
+/cygdrive/c/Users/sarel/CLionProjects/HW1/BoardList.h
+iostream
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/sarel/CLionProjects/HW1/BoardList.h
+iostream
+-
+
+/cygdrive/c/Users/sarel/CLionProjects/HW1/main.cpp
+iostream
+-
+BoardList.h
+/cygdrive/c/Users/sarel/CLionProjects/HW1/BoardList.h
+

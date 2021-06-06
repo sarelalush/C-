@@ -1,0 +1,17 @@
+board a 80 80
+line a 72 40 12 56 3
+line a 68 56 8 40 3
+line a 56 68 12 24 3
+line a 40 72 24 12 3
+line a 24 68 40 8 3
+line a 12 56 56 12 3
+line a 8 40 68 24 3
+line a 12 24 72 40 3
+line a 24 12 68 56 3
+line a 40 8 56 68 3
+line a 56 12 40 72 3
+line a 68 24 24 68 3
+circle a 40 40 38 2
+fill a 77 40 1
+print a
+quit
