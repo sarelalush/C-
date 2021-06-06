@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/sarel/CLionProjects/HW2/BoardGame.cpp
+BoardGame.h
+/cygdrive/c/Users/sarel/CLionProjects/HW2/BoardGame.h
+Disks.h
+/cygdrive/c/Users/sarel/CLionProjects/HW2/Disks.h
+iostream
+-
+iomanip
+-
+
+/cygdrive/c/Users/sarel/CLionProjects/HW2/BoardGame.h
+Disks.h
+/cygdrive/c/Users/sarel/CLionProjects/HW2/Disks.h
+
+/cygdrive/c/Users/sarel/CLionProjects/HW2/Disks.h
+
