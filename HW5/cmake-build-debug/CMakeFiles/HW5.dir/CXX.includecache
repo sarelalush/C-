@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/sarel/CLionProjects/HW5/Counter.h
+map
+-
+list
+-
+iostream
+-
+sstream
+-
+
+/cygdrive/c/Users/sarel/CLionProjects/HW5/Parser.cpp
+Parser.h
+/cygdrive/c/Users/sarel/CLionProjects/HW5/Parser.h
+fstream
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/sarel/CLionProjects/HW5/Parser.h
+vector
+-
+Counter.h
+/cygdrive/c/Users/sarel/CLionProjects/HW5/Counter.h
+
